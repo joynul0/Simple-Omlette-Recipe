@@ -1,0 +1,21 @@
+.inner_line {
+    background-color: #cac6c6;
+    width: 100%;
+    height: 1.5px;
+    margin-top: 25px;
+}
+.ins{
+    font-weight: 600;
+}
+.data{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    
+}
+.table_line {
+    background-color: #cac6c6;
+    width: 100%;
+    height: 1.5px;
+}
+
